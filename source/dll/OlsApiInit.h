@@ -13,6 +13,8 @@
 #include "OlsDef.h"
 #include "OlsApiInitDef.h"
 
+#include <tchar.h>
+
 //-----------------------------------------------------------------------------
 //
 // Prototypes
